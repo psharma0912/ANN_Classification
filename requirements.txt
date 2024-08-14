@@ -1,6 +1,7 @@
 numpy
 pandas 
-tensorflow==2.15.0
+#tensorflow==2.15.0
+tensorflow
 scikit-learn 
 tensorboard 
 streamlit
