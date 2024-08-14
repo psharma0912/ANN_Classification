@@ -1,8 +1,8 @@
 numpy
 pandas 
-tensorflow
-scikit-learn
-tensorboard
+tensorflow==2.15.0
+scikit-learn 
+tensorboard 
 streamlit
 matplotlib
 
